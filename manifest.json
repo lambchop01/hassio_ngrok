@@ -4,5 +4,6 @@
   "documentation": "https://github.com/vincenzosuraci/hassio_ngrok",
   "dependencies": [],
   "codeowners": ["@vincenzosuraci"],
-  "requirements": []
+  "requirements": [],
+  "version":"1.0.0"
 }
